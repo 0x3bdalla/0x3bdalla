@@ -27,10 +27,6 @@ In the heart of this journey lies the forge, FireBron, where every tool, script,
 
 - **[Red Team Toolkit](https://github.com/0x3bdalla/red-team-toolkit):** A curated collection of scripts and tools, crafted in the FireBron forge, ready for deployment in the battlefield.
 - **[Bash Exploits](https://github.com/0x3bdalla/bash-exploits):** Custom Bash scripts, refined and tested in the darkest depths, where no vulnerability remains hidden.
-
-## **A Champion’s Oath**
-With every battle I face, I take the oath of a knight: to protect the realm of cybersecurity from the forces of chaos. Like those who rise from the flames of defeat, I move forward, bringing light where there is darkness, and cutting down the threats that seek to breach the gates of our digital world. The path may be long and fraught with peril, but like the champions before me, I walk it with unwavering resolve.
-
 ---
 
 **Follow my journey on [Medium](https://medium.com/@abdallamoe30).**
